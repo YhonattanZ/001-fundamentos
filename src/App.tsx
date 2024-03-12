@@ -1,4 +1,8 @@
-import { BasicTypes } from "./typescript"
+import {
+  // BasicTypes ,
+  ObjectListerals} from "./typescript"
+
+// import { ObjectListerals } from "./typescript"
 
 function App() {
   
@@ -6,7 +10,8 @@ function App() {
     <main>
      <h1>Introduccion a TS - REACT</h1>
      {/* Aqui*/}
-     <BasicTypes/>
+     {/* <BasicTypes/> */}
+     <ObjectListerals/>
     </main>
   )
 }
